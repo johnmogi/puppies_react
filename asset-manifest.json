@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/puppies_react/static/css/main.a8b55214.chunk.css",
+    "main.js": "/puppies_react/static/js/main.2c33c515.chunk.js",
+    "main.js.map": "/puppies_react/static/js/main.2c33c515.chunk.js.map",
+    "runtime-main.js": "/puppies_react/static/js/runtime-main.b7b9b0e1.js",
+    "runtime-main.js.map": "/puppies_react/static/js/runtime-main.b7b9b0e1.js.map",
+    "static/js/2.34333c27.chunk.js": "/puppies_react/static/js/2.34333c27.chunk.js",
+    "static/js/2.34333c27.chunk.js.map": "/puppies_react/static/js/2.34333c27.chunk.js.map",
+    "index.html": "/puppies_react/index.html",
+    "precache-manifest.b170d28c39d9761467e5e1298d5eba16.js": "/puppies_react/precache-manifest.b170d28c39d9761467e5e1298d5eba16.js",
+    "service-worker.js": "/puppies_react/service-worker.js",
+    "static/css/main.a8b55214.chunk.css.map": "/puppies_react/static/css/main.a8b55214.chunk.css.map",
+    "static/js/2.34333c27.chunk.js.LICENSE": "/puppies_react/static/js/2.34333c27.chunk.js.LICENSE",
+    "static/media/how-to-react-to-a-dog-biting_large.webp": "/puppies_react/static/media/how-to-react-to-a-dog-biting_large.c0f3b33b.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7b9b0e1.js",
+    "static/js/2.34333c27.chunk.js",
+    "static/css/main.a8b55214.chunk.css",
+    "static/js/main.2c33c515.chunk.js"
+  ]
+}
